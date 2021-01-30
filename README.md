@@ -1,5 +1,8 @@
- <img src="bannervladis.png" alt="logo"/>
+<img src="bannervladis.png" alt="logo"/>
+
 <h3 align="center">Pursuing my Bachelor’s in Software Engineering 💻, expected to be graduating this year. Currently, I am immersed in Machine Learning and Web Developing.</h3>
+
+---
 
 - 🔭 I’m currently working on [My Final Project](www.lmd.co.il)
 
@@ -12,31 +15,31 @@
 Programming Languages
 
 <p>
-  <img alt="C" src="https://img.shields.io/badge/C-333333?logo=C&logoColor=A8B9CC&style=flat" />
+  <img alt="C" src="https://img.shields.io/badge/C-333333?logo=C&logoColor=A8B9CC&style=for-the-badge" />
 
-  <img alt="C++" src="https://img.shields.io/badge/C++-333333?logo=C&logoColor=00599C&style=flat" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-333333?logo=C&logoColor=00599C&style=for-the-badge" />
 
-  <img alt="Python" src="https://img.shields.io/badge/Python-333333?logo=Python&logoColor=3776AB&style=flat" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-333333?logo=Python&logoColor=3776AB&style=for-the-badge" />
 
-  <img alt="Java" src="https://img.shields.io/badge/Java-333333?logo=java&logoColor=007396&style=flat" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-333333?logo=java&logoColor=007396&style=for-the-badge" />
 
-   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-333333?logo=JavaScript&logoColor=F7DF1E&style=flat" />
+   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-333333?logo=JavaScript&logoColor=F7DF1E&style=for-the-badge" />
 
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-333333?logo=TypeScript&logoColor=3178c6&style=flat" />   
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-333333?logo=TypeScript&logoColor=3178c6&style=for-the-badge" />   
 </p>
 
 Frontend Development
 
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-333333?logo=HTML5&logoColor=E34F26&style=flat" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-333333?logo=HTML5&logoColor=E34F26&style=for-the-badge" />
 
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-333333?logo=CSS3&logoColor=1572B6&style=flat" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-333333?logo=CSS3&logoColor=1572B6&style=for-the-badge" />
 
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-333333?logo=Bootstrap&logoColor=7952B3&style=flat" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-333333?logo=Bootstrap&logoColor=7952B3&style=for-the-badge" />
 
-  <img alt="React" src="https://img.shields.io/badge/React-333333?logo=React&logoColor=61DAFB&style=flat" />
+  <img alt="React" src="https://img.shields.io/badge/React-333333?logo=React&logoColor=61DAFB&style=for-the-badge" />
 
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-333333?logo=Redux&logoColor=764ABC&style=flat" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-333333?logo=Redux&logoColor=764ABC&style=for-the-badge" />
 
 </p>
 
