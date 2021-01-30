@@ -10,13 +10,45 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+Programming Languages
+
+<p>
+  <img alt="C" src="https://img.shields.io/badge/C-333333?logo=C&logoColor=A8B9CC&style=flat" />
+
+  <img alt="C++" src="https://img.shields.io/badge/C++-333333?logo=C&logoColor=00599C&style=flat" />
+
+  <img alt="Python" src="https://img.shields.io/badge/Python-333333?logo=Python&logoColor=3776AB&style=flat" />
+
+  <img alt="Java" src="https://img.shields.io/badge/Java-333333?logo=java&logoColor=007396&style=flat" />
+
+   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-333333?logo=JavaScript&logoColor=F7DF1E&style=flat" />
+
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-333333?logo=TypeScript&logoColor=3178c6&style=flat" />   
+</p>
+
+Frontend Development
+
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-333333?logo=HTML5&logoColor=E34F26&style=flat" />
+
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-333333?logo=CSS3&logoColor=1572B6&style=flat" />
+
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-333333?logo=Bootstrap&logoColor=7952B3&style=flat" />
+
+  <img alt="React" src="https://img.shields.io/badge/React-333333?logo=React&logoColor=61DAFB&style=flat" />
+
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-333333?logo=Redux&logoColor=764ABC&style=flat" />
+
+</p>
+
+Backend Development
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
