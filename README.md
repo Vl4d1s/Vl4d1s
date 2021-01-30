@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vladis Markin 👨‍🎓</h1>
+<h1 align="center">Hello <Developers/> 👨‍🎓</h1>
  <img src="banner.png" alt="c" width="1012" height="160"/>
 <h3 align="center">Pursuing my Bachelor’s in Software Engineering 💻, expected to be graduating this year. Currently, I am immersed in Machine Learning and Web Developing.</h3>
 
