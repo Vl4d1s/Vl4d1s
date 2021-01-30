@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Vladis Markin 👨‍🎓</h1>
+![Screenshot](banner.jfif)
 <h3 align="center">Pursuing my Bachelor’s in Software Engineering 💻, expected to be graduating next year. Currently, I am immersed in Machine Learning and Web Developing.</h3>
 
 - 🔭 I’m currently working on [My Final Project](www.lmd.co.il)
