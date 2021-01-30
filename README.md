@@ -1,4 +1,4 @@
-<img src="bannervladis.png" alt="logo"/>
+<img src="logo.png" alt="logo"/>
 
 <h3 align="center">Pursuing my Bachelor’s in Software Engineering 💻, expected to be graduating this year. Currently, I am immersed in Machine Learning and Web Developing.</h3>
 
