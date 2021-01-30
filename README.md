@@ -1,5 +1,5 @@
 <h1 align="center">Hello Developers 👨‍🎓</h1>
- <img src="banner.png" alt="c" width="1012"Developers height="160"/>
+ <img src="logo.jfif" alt="logo"/>
 <h3 align="center">Pursuing my Bachelor’s in Software Engineering 💻, expected to be graduating this year. Currently, I am immersed in Machine Learning and Web Developing.</h3>
 
 - 🔭 I’m currently working on [My Final Project](www.lmd.co.il)
