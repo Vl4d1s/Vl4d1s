@@ -15,10 +15,23 @@ I also have a strong passion for  data structures and algorithms 🤩.
 
 ---
 
+### About my final froject:
+
+<img src="fruc.jpg" alt="fruc" width="250" height="165"/>&nbsp;
+<img src="maskfruc.jpg" alt="maskfruc" width="250" height="165"/>
+
+<p>
+In our research project my partner and I are researching and building a deep learning model (CNN) to mark Fractographic images, focusing on dimples in order to achieve maximum accuracy and also save valuable time from materials engineers.
+</p>
+
+---
+
 ### Send me a message!
 
+<p>
 I am actively seeking for an exciting opportunity where I can grow professionally, so feel free to connect through this profile, via email or
 through the social networks:
+</p>
 
 <p>
   <a href="https://www.facebook.com/vladis">
@@ -118,4 +131,4 @@ through the social networks:
 
 ### GitHub stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vl4d1s&show_icons=true&locale=en" alt="vl4d1s" /></p>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vl4d1s&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vladis's Github Stats"></div>
