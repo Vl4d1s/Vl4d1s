@@ -31,11 +31,11 @@ We are trying to make changes to the model to suit our problem.
   <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
   <ul>
     <br>
-    <li>Get back in shape 🏋️‍♂️</li>
-    <li>Avoid over using social media (Except for LinkedIn) 🛑</li>
-    <li>Explore the field of computer vision & Deep learning 🕵️‍♂️</li>
-    <li>Improve my full-stack capabilities 🧑‍💻</li>
-    <li>Finish a bachelor's degree and start a master's degree 👨‍🎓</li>
+    <li>Get back in shape.</li>
+    <li>Avoid over using social media.</li>
+    <li>Explore the field of computer vision & Deep learning.</li>
+    <li>Improve my full-stack capabilities.</li>
+    <li>Finish a bachelor's degree and start a master's degree.🎓</li>
   </ul>
 </details>
 
