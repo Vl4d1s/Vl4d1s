@@ -27,6 +27,21 @@ We are trying to make changes to the model to suit our problem.
 
 ---
 
+### 🌱 Challenges that I’m currently challenging myself:
+<details>
+  <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
+  <ul>
+    <br>
+    <li>Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
+    <li>Avoid over using social media</li>
+    <li>Read more books</li>
+    <li>Adopting the minimalism life style</li>
+    <li>🔜</li>
+  </ul>
+</details>
+
+---
+
 ### Send me a message!
 
 <p>
@@ -130,6 +145,13 @@ through the social networks:
 
 ---
 
-### GitHub stats:
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vl4d1s&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vladis's Github Stats"></div>
+<details>
+  <summary>✨ Github Stats</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=vl4d1s&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vladis's Github Stats">
+</details>
+<details>
+  <summary>🔥 Top languages</summary>
+  <br>
+  <img align="left" alt="Vladis's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vl4d1s&theme=dracula" /> <br>
+</details>
