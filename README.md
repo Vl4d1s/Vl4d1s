@@ -100,4 +100,4 @@ I also have a strong passion for algorithms and data structures .
 
 ### GitHub stats:
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vl4d1s&show_icons=true&locale=en" alt="vl4d1s" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vl4d1s&show_icons=true&locale=en" alt="vl4d1s" /></p>
