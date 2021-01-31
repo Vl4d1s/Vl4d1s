@@ -1,4 +1,4 @@
-<img src="logo.png" alt="logo"/>
+<img src="vmlogo.png" alt="logo"/>
 <p align="center"><img src="title.gif" alt="logo"/></p>
 <h3 align="center">
 Pursuing my Bachelor’s in Software Engineering 💻, expected to be graduating this year. Currently, I am immersed in Machine Learning and Web Developing. 
