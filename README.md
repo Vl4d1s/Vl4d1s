@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Pursuing my Bachelor’s in Software Engineering 💻, expected to be graduating this year. Currently, I am immersed in Machine Learning and Web Developing. 
-I also have a strong passion for algorithms and data structures .
+I also have a strong passion for algorithms and data structures. 
 </h3>
 
 ---
@@ -12,6 +12,24 @@ I also have a strong passion for algorithms and data structures .
 📫 Reach me by mail: **vladismarkin@gmail.com**
 
 💬 Ask me about Everything related to: **Programming, Web Development and Machine Learning.**
+
+---
+
+### Send me a message!
+
+I am actively seeking for an exciting opportunity where I can grow professionally, so feel free to connect through this profile, via email or
+through social networks:
+
+<p>
+  <a href="https://www.facebook.com/vladis">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877f2?logo=Facebook&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/vladis_markin/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/vladismarkin/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="vladismarkin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
+</p>
 
 ---
 
