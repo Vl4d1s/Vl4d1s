@@ -1,5 +1,4 @@
 <img src="logo.png" alt="logo"/>
-
 <h3 align="center">
 Pursuing my Bachelor’s in Software Engineering 💻, expected to be graduating this year. Currently, I am immersed in Machine Learning and Web Developing. 
 I also have a strong passion for  data structures and algorithms. 
@@ -15,7 +14,7 @@ I also have a strong passion for  data structures and algorithms.
 
 ---
 
-### About my final froject:
+### 💼 About my final froject:
 
 <img src="fruc.jpg" alt="fruc" width="250" height="165"/>&nbsp;
 <img src="maskfruc.jpg" alt="maskfruc" width="250" height="165"/>
@@ -27,22 +26,22 @@ We are trying to make changes to the model to suit our problem.
 
 ---
 
-### 🌱 Challenges that I’m currently challenging myself:
+### 🏅 Challenges that I’m currently challenging myself:
 <details>
   <summary> Since the world is in the quarantine stage, and I’m having tremendous of spare time, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
   <ul>
     <br>
-    <li>Learn to code 3-4 hours a day with no distraction ( One or two day off a week. )</li>
-    <li>Avoid over using social media</li>
-    <li>Read more books</li>
-    <li>Adopting the minimalism life style</li>
-    <li>🔜</li>
+    <li>Get back in shape 🏋️‍♂️</li>
+    <li>Avoid over using social media (Except for LinkedIn) 🛑</li>
+    <li>Explore the field of computer vision & Deep learning 🕵️‍♂️</li>
+    <li>Improve my full-stack capabilities 🧑‍💻</li>
+    <li>Finish a bachelor's degree and start a master's degree 👨‍🎓</li>
   </ul>
 </details>
 
 ---
 
-### Send me a message!
+### ✉️ Send me a message!
 
 <p>
 I am actively seeking for an exciting opportunity where I can grow professionally, so feel free to connect through this profile, via email or
@@ -149,9 +148,14 @@ through the social networks:
   <summary>✨ Github Stats</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=vl4d1s&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vladis's Github Stats">
+  <br><br>
 </details>
 <details>
   <summary>🔥 Top languages</summary>
   <br>
-  <img align="left" alt="Vladis's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vl4d1s&theme=dracula" /> <br>
+  <img align="left" alt="Vladis's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vl4d1s&theme=dracula" />
+  <br><br><br><br><br><br><br><br><br><br><br><br>
 </details>
+
+---
+<img src="https://komarev.com/ghpvc/?username=Vl4d1s" alt="Vl4d1s" />
