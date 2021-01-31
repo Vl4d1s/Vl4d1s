@@ -26,7 +26,7 @@ We are trying to make changes to the model to suit our problem.
 
 ---
 
-### 🏅 Challenges that I’m currently challenging myself:
+### 🤸‍♂️ Challenges that I’m currently challenging myself:
 
 <details>
   <summary> Since the world is in the quarantine stage, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
@@ -75,15 +75,14 @@ through the social networks:
 
 ---
 
-<details>
-  <summary>Github Stats</summary>
+### 🏅 GitHub States:
+
 <p align="center"><br>
 <a href="https://github.com/Vl4d1s">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vl4d1s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vl4d1s&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-</details>
 
 ---
 
