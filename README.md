@@ -21,7 +21,7 @@ I also have a strong passion for  data structures and algorithms.
 
 In our research project [My Partner](https://github.com/Mohamab29) (Mohamed Nedal Abomokh) and I are researching and building a deep learning model (CNN) to mark Fractographic images, focusing on dimples in order to achieve maximum accuracy and also save valuable time from materials engineers.
 
-The name of the model on which the project is based is [U-net](https://arxiv.org/abs/1505.04597), originally developed for for biomedical image segmentation.
+The name of the model on which the project is based is [U-Net](https://arxiv.org/abs/1505.04597), originally developed for for biomedical image segmentation.
 We are trying to make changes to the model to suit our problem.
 
 ---
