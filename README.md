@@ -1,14 +1,17 @@
 <img src="logo.png" alt="logo"/>
 
-<h3 align="center">Pursuing my Bachelor’s in Software Engineering 💻, expected to be graduating this year. Currently, I am immersed in Machine Learning and Web Developing.</h3>
+<h3 align="center">
+Pursuing my Bachelor’s in Software Engineering 💻, expected to be graduating this year. Currently, I am immersed in Machine Learning and Web Developing. 
+I also have a strong passion for algorithms and data structures .
+</h3>
 
 ---
 
-- 🔭 I’m currently working on [**My Final Project**](www.lmd.co.il)
+🔭 I’m currently working on [**My Final Project**](www.lmd.co.il)
 
-- 📫 Reach me by mail: **vladismarkin@gmail.com**
+📫 Reach me by mail: **vladismarkin@gmail.com**
 
-- 💬 Ask me about Everything related to: **Programming, Web Development and Machine Learning.**
+💬 Ask me about Everything related to: **Programming, Web Development and Machine Learning.**
 
 ---
 
@@ -80,9 +83,7 @@
 
 </p>
 
-**IDEA & :**
-
-**AI/ML:**
+**IDEAs:**
 
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007acc?logo=Visual Studio Code&logoColor=white&style=for-the-badge" />
@@ -96,3 +97,9 @@
 </p>
 
 ---
+
+### GitHub stats:
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vl4d1s&show_icons=true&locale=en&layout=compact" alt="vl4d1s" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=vl4d1s&show_icons=true&locale=en" alt="vl4d1s" /></p>
