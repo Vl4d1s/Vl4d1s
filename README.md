@@ -27,6 +27,7 @@ We are trying to make changes to the model to suit our problem.
 ---
 
 ### 🏅 Challenges that I’m currently challenging myself:
+
 <details>
   <summary> Since the world is in the quarantine stage, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
   <ul>
@@ -61,31 +62,16 @@ through the social networks:
 
 ---
 
-### Languages and Tools:
+### 🖥️ Languages and Tools:
 
-**Programming Languages:**
-
-Property                 | Data  
--------------------------|------
-Programming Languages    | ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/C++-00599C?logo=C&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=TypeScript&logoColor=white&style=for-the-badge)
-Frontend Development    | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge) ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=for-the-badge)
-Backend Developing      | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge) 
-Databases               | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white&style=for-the-badge)
-AI/ML                   | ![Mathworks](https://img.shields.io/badge/MathLab-0076a8?logo=Mathworks&logoColor=white&style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=for-the-badge) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white&style=for-the-badge) ![Numpy](https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white&style=for-the-badge) ![OpenCV](https://img.shields.io/badge/OpenCV-F78C40?logo=OpenCV&logoColor=white&style=for-the-badge) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&logoColor=white&style=for-the-badge)
-IDEAs:                  | ![Visual Studio Code](https://img.shields.io/badge/Visual Studio Code-007acc?logo=Visual Studio Code&logoColor=white&style=for-the-badge) ![Visual Studio](https://img.shields.io/badge/Visual Studio-5C2D91?logo=Visual Studio&logoColor=white&style=for-the-badge) ![Pycharm](https://img.shields.io/badge/Pycharm-000000?logo=Pycharm&logoColor=white&style=for-the-badge) ![Spyder IDE](https://img.shields.io/badge/Spyder-FF0000?logo=Spyder IDE&logoColor=white&style=for-the-badge) ![Eclips IDE](https://img.shields.io/badge/Spyder-2C2255?logo=Eclips IDE&logoColor=white&style=for-the-badge) 
-
-**IDEAs:**
-
-<p>
-  <img alt="Visual Studio Code" src="" />
-
-  <img alt="Visual Studio" src="" />
-
-  <img alt="Pycharm" src="" />
-
-  <img alt="Spyder IDE" src="" />
-
-</p>
+| Property              | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Programming Languages | ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/C++-00599C?logo=C&logoColor=white&style=for-the-badge) ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=TypeScript&logoColor=white&style=for-the-badge)                                                                                                                                                   |
+| Frontend Development  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge) ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge) ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=for-the-badge)                                                                                                                                                                                                                                                       |
+| Backend Developing    | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Databases             | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white&style=for-the-badge)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| AI/ML                 | ![Mathworks](https://img.shields.io/badge/MathLab-0076a8?logo=Mathworks&logoColor=white&style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=TensorFlow&logoColor=white&style=for-the-badge) ![Keras](https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white&style=for-the-badge) ![Numpy](https://img.shields.io/badge/Numpy-013243?logo=Numpy&logoColor=white&style=for-the-badge) ![OpenCV](https://img.shields.io/badge/OpenCV-F78C40?logo=OpenCV&logoColor=white&style=for-the-badge) ![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge) ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=Anaconda&logoColor=white&style=for-the-badge) |
+| IDEAs:                | ![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?logo=Visual%20Studio%20Code&logoColor=white&style=for-the-badge) ![VisualStudio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=Visual%20Studio&logoColor=white&style=for-the-badge) ![Pycharm](https://img.shields.io/badge/Pycharm-000000?logo=Pycharm&logoColor=white&style=for-the-badge) ![SpyderIDE](https://img.shields.io/badge/Spyder-FF0000?logo=Spyder%20IDE&logoColor=white&style=for-the-badge) ![EclipsIDE](https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse%20IDE&logoColor=white&style=for-the-badge)                                                                                                                                                        |
 
 ---
 
@@ -103,4 +89,5 @@ IDEAs:                  | ![Visual Studio Code](https://img.shields.io/badge/Vis
 </details>
 
 ---
+
 <img src="https://komarev.com/ghpvc/?username=Vl4d1s" alt="Vl4d1s" />
