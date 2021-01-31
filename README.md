@@ -2,12 +2,12 @@
 
 <h3 align="center">
 Pursuing my Bachelor’s in Software Engineering 💻, expected to be graduating this year. Currently, I am immersed in Machine Learning and Web Developing. 
-I also have a strong passion for algorithms and data structures. 
+I also have a strong passion for  data structures and algorithms 🤩. 
 </h3>
 
 ---
 
-🔭 I’m currently working on [**My Final Project**](www.lmd.co.il)
+🔬 I’m currently working on [**My Final Project**](www.lmd.co.il)
 
 📫 Reach me by mail: **vladismarkin@gmail.com**
 
@@ -18,7 +18,7 @@ I also have a strong passion for algorithms and data structures.
 ### Send me a message!
 
 I am actively seeking for an exciting opportunity where I can grow professionally, so feel free to connect through this profile, via email or
-through social networks:
+through the social networks:
 
 <p>
   <a href="https://www.facebook.com/vladis">
