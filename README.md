@@ -2,12 +2,12 @@
 
 <h3 align="center">
 Pursuing my Bachelor’s in Software Engineering 💻, expected to be graduating this year. Currently, I am immersed in Machine Learning and Web Developing. 
-I also have a strong passion for  data structures and algorithms 🤩. 
+I also have a strong passion for  data structures and algorithms. 
 </h3>
 
 ---
 
-🔬 I’m currently working on [**My Final Project**](www.lmd.co.il)
+🔬 I’m currently working on [**My Final Project**](www.lmd.co.il) and studying full stack web development.
 
 📫 Reach me by mail: **vladismarkin@gmail.com**
 
@@ -20,9 +20,10 @@ I also have a strong passion for  data structures and algorithms 🤩.
 <img src="fruc.jpg" alt="fruc" width="250" height="165"/>&nbsp;
 <img src="maskfruc.jpg" alt="maskfruc" width="250" height="165"/>
 
-<p>
-In our research project my partner and I are researching and building a deep learning model (CNN) to mark Fractographic images, focusing on dimples in order to achieve maximum accuracy and also save valuable time from materials engineers.
-</p>
+In our research project [My Partner](https://github.com/Mohamab29) (Mohamed Nedal Abomokh) and I are researching and building a deep learning model (CNN) to mark Fractographic images, focusing on dimples in order to achieve maximum accuracy and also save valuable time from materials engineers.
+
+The name of the model on which the project is based is [U-net](https://arxiv.org/abs/1505.04597), originally developed for for biomedical image segmentation.
+We are trying to make changes to the model to suit our problem.
 
 ---
 
