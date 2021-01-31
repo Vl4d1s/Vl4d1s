@@ -36,7 +36,7 @@ We are trying to make changes to the model to suit our problem.
     <li>Avoid over using social media.</li>
     <li>Explore the field of computer vision & Deep learning.</li>
     <li>Improve my full-stack capabilities.</li>
-    <li>Finish a bachelor's degree and start a master's degree.🎓</li>
+    <li>Finish a bachelor's degree and start a master's degree.</li>
   </ul>
 </details>
 
@@ -76,13 +76,13 @@ through the social networks:
 ---
 
 <details>
-  <summary>✨ Github Stats</summary>
+  <summary>Github Stats</summary>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=vl4d1s&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vladis's Github Stats">
   <br><br>
 </details>
 <details>
-  <summary>🔥 Top languages</summary>
+  <summary>Top languages</summary>
   <br>
   <img align="left" alt="Vladis's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vl4d1s&theme=dracula" />
   <br><br><br><br><br><br><br><br><br><br><br><br>
