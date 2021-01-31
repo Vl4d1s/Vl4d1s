@@ -77,15 +77,12 @@ through the social networks:
 
 <details>
   <summary>Github Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=vl4d1s&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Vladis's Github Stats">
-  <br><br>
-</details>
-<details>
-  <summary>Top languages</summary>
-  <br>
-  <img align="left" alt="Vladis's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vl4d1s&theme=dracula" />
-  <br><br><br><br><br><br><br><br><br><br><br><br>
+<p align="center"><br>
+<a href="https://github.com/Vl4d1s">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vl4d1s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vl4d1s&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 </details>
 
 ---
