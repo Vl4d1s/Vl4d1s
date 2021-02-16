@@ -1,7 +1,7 @@
 <img src="assets/headers/vmlogo.png" alt="logo"/>
 <p align="center"><img src="assets/headers/title.gif" alt="logo"/></p>
 <h3 align="center">
-Currently, I am immersed in Machine Learning and Web Developing. 
+B.S.c Software Engineer Student. Currently, I am immersed in Machine Learning and Web Developing. 
 I also have a strong passion for  data structures and algorithms. 
 </h3>
 
