@@ -2,8 +2,8 @@
 <p align="center"><img src="assets/headers/logo.png" alt="logo"/></p>
 <p align="center"><img src="assets/headers/title.gif" alt="logo"/></p>
 <h3 align="center">
-B.S.c Software Engineer Student. Currently, I am immersed in Machine Learning and Web Developing. 
-I also have a strong passion for  data structures and algorithms. 
+<em>B.S.c Software Engineer Student. Currently, I am immersed in Machine Learning and Web Developing. 
+I also have a strong passion for  data structures and algorithms.</em> 
 </h3>
 
 ---
