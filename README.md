@@ -1,4 +1,5 @@
-<img src="assets/headers/logo.png" alt="logo"/>
+
+<p align="center"><img src="assets/headers/logo.png" alt="logo"/></p>
 <p align="center"><img src="assets/headers/title.gif" alt="logo"/></p>
 <h3 align="center">
 B.S.c Software Engineer Student. Currently, I am immersed in Machine Learning and Web Developing. 
