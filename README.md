@@ -18,7 +18,7 @@
 
 ---
 
-### 💼 About my final froject:
+### 🔬 About my final froject:
 
 <img src="assets/finalproject/fruc.jpg" alt="fruc" width="250" height="165"/>&nbsp;
 <img src="assets/finalproject/maskfruc.jpg" alt="maskfruc" width="250" height="165"/>
