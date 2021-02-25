@@ -1,10 +1,12 @@
 
-<p align="center"><img src="assets/headers/logo.png" alt="logo"/></p>
-<p align="center"><img src="assets/headers/title.gif" alt="logo"/></p>
-<h3 align="center">
-B.S.c Software Engineer Student. Currently, I am immersed in Machine Learning and Web Developing. 
-I also have a strong passion for  data structures and algorithms. 
-</h3>
+<p align="center">
+<img src="assets/headers/logo.png" alt="logo"/></br>
+<img src="assets/headers/title.gif" alt="title"/>
+</p>
+
+**I am a driven professional with an international background and a previous achievement record in sales 📈, currently pursuing my Bachelor’s in Software Engineering 👨‍🎓. My studies and project experience allowed me to hone a wealth of skills across the SDLC, as I was immersed in the planning, analysis, design, testing, implementation and maintenance of various systems, tools and products, both as part of my degree and independently. In this sense, I developed a passion for writing clean high-quality code. Currently, I am immersed in Full-Stack Web Developing 💻, ML/AI and I am working on my final project 🔬.**
+
+
 
 ---
 
@@ -16,7 +18,7 @@ I also have a strong passion for  data structures and algorithms.
 
 ---
 
-### 💼 About my final froject:
+### 🔬 About my final froject:
 
 <img src="assets/finalproject/fruc.jpg" alt="fruc" width="250" height="165"/>&nbsp;
 <img src="assets/finalproject/maskfruc.jpg" alt="maskfruc" width="250" height="165"/>
