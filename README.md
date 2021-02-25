@@ -1,9 +1,14 @@
 
 <p align="center"><img src="assets/headers/logo.png" alt="logo"/></p>
 <p align="center"><img src="assets/headers/title.gif" alt="logo"/></p>
-<p align="left">
+<h4 align="left">
 <em>I am a driven professional with an international background and a previous achievement record in sales, currently pursuing my Bachelor’s in Software Engineering. My studies and project experience allowed me to hone a wealth of skills across the SDLC, as I was immersed in the planning, analysis, design, testing, implementation and maintenance of various systems, tools and products, both as part of my degree and independently. In this sense, I developed a passion for writing clean high-quality code. Currently, I am immersed in Full-Stack Web Developing, ML/AI and I am working on my final project.</em> 
-</p>
+</h4>
+
+
+```html
+<span style="color: green"> Some green text </span>
+```
 
 ---
 
@@ -12,6 +17,15 @@
 • Reach me by mail: **vladismarkin@gmail.com**
 
 • Ask me about Everything related to: **Programming, Web Development and Machine Learning.**
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 
 ---
 
