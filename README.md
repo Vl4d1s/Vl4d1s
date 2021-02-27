@@ -10,8 +10,8 @@
 
 ---
 
-◾️ I’m currently working on [**My Final Project**](www.lmd.co.il) and studying full stack web development.
-◾️ Reach me by mail: **vladismarkin@gmail.com**
+◾️ I’m currently working on [**My Final Project**](www.lmd.co.il) and studying full stack web development.</br>
+◾️ Reach me by mail: **vladismarkin@gmail.com**</br>
 ◾️ Ask me about Everything related to: **Programming, Web Development and Machine Learning.**
 
 ---
