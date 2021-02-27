@@ -23,7 +23,7 @@
 <img src="assets/finalproject/fruc.jpg" alt="fruc" width="250" height="165"/>&nbsp;
 <img src="assets/finalproject/maskfruc.jpg" alt="maskfruc" width="250" height="165"/>
 
-In our research project [My Partner](https://github.com/Mohamab29) (Mohamed Nedal Abomokh) and I are researching and building a deep learning model (CNN) to mark [Fractographic images](https://en.wikipedia.org/wiki/Fractography#:~:text=Fractography%20is%20the%20study%20of,forensic%20engineering%20or%20failure%20analysis.), focusing on dimples in order to achieve maximum accuracy and also save valuable time from materials engineers.
+In our research project [My Partner](https://github.com/Mohamab29) (Mohamed Nedal Abomokh) and I are researching the field of Computer Vision and building a deep learning model (CNN) to mark [Fractographic images](https://en.wikipedia.org/wiki/Fractography#:~:text=Fractography%20is%20the%20study%20of,forensic%20engineering%20or%20failure%20analysis.), focusing on dimples in order to achieve maximum accuracy and also save valuable time from materials engineers.
 
 The name of the model on which the project is based is [U-Net](https://arxiv.org/abs/1505.04597), originally developed for for biomedical image segmentation.
 We are trying to make changes to the model to suit our problem.
