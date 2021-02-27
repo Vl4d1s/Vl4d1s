@@ -16,6 +16,10 @@
 
 ---
 
+### 📃 Download my CV:
+
+---
+
 ### 🔬 About my final froject:
 
 <img src="assets/finalproject/fruc.jpg" alt="fruc" width="250" height="165"/>&nbsp;
