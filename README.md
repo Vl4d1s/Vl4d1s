@@ -25,7 +25,7 @@ We are trying to make changes to the model to suit our problem - segmantation of
 
 ---
 
-### 📃 Certificates:
+### 💯 Certificates:
 
 <details>
   <summary>
