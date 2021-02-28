@@ -7,19 +7,6 @@
 
 ---
 
-### 📃 Download my CV:
-
-<details>
-  <summary>
-    PDF format
-  </summary>
-  <a href="assets/cv/cv.pdf">
-    <img alt="cv" src="assets/cv/cv.jpg" width="248" height="351"/>
-  </a>
-</details>
-
----
-
 ◾️ I’m currently working on [**My Final Project**](www.lmd.co.il) and studying full stack web development.</br>
 ◾️ Reach me by mail: **vladismarkin@gmail.com**</br>
 ◾️ Ask me about Everything related to: **Programming, Web Development and Machine Learning.**
@@ -46,6 +33,19 @@ We are trying to make changes to the model to suit our problem - segmantation of
   </summary>
     <img src="assets/certificates/git.jpg" alt="git" width="400" height="297.5"/>&nbsp;
     <img src="assets/certificates/weirdjs.jpg" alt="git" width="400" height="297.5"/>
+</details>
+
+---
+
+### 📃 Download my CV:
+
+<details>
+  <summary>
+    PDF format
+  </summary>
+  <a href="assets/cv/cv.pdf">
+    <img alt="cv" src="assets/cv/cv.jpg" width="248" height="351"/>
+  </a>
 </details>
 
 ---
