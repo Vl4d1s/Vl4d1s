@@ -32,8 +32,9 @@ We are trying to make changes to the model to suit our problem - segmantation of
     Here are some of my Certificates that i got:
   </summary>
     <img src="assets/certificates/git.jpg" alt="git" width="400" height="297.5"/>&nbsp;
-    <img src="assets/certificates/weirdjs.jpg" alt="git" width="400" height="297.5"/>&nbsp;
-    <img src="assets/certificates/linux.jpg" alt="git" width="400" height="297.5"/>&nbsp;
+    <img src="assets/certificates/weirdjs.jpg" alt="weirdjs" width="400" height="297.5"/>&nbsp;
+    <img src="assets/certificates/linux.jpg" alt="linux" width="400" height="297.5"/>&nbsp;
+    <img src="assets/certificates/advancejs.jpg" alt="advancejs" width="400" height="297.5"/>&nbsp;
 </details>
 
 ---
