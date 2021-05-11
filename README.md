@@ -41,6 +41,14 @@ I created this site for several main reasons:<br>
 
 ---
 
+### 📃 Download my CV:
+
+  <a href="assets/cv/cv.pdf">
+    <img alt="cv" src="assets/cv/cv.jpg" width="248" height="351"/>
+  </a>
+
+---
+
 ### 💯 Certificates:
 
 <details>
@@ -53,19 +61,6 @@ I created this site for several main reasons:<br>
     <img src="assets/certificates/advancejs.jpg" alt="advancejs" width="400" height="297.5"/>&nbsp;
     <img src="assets/certificates/react.jpg" alt="react" width="400" height="297.5"/>&nbsp;
     <img src="assets/certificates/mathlab.png" alt="mathlab" width="400" height="297.5"/>&nbsp;
-</details>
-
----
-
-### 📃 Download my CV:
-
-<details>
-  <summary>
-    PDF format
-  </summary>
-  <a href="assets/cv/cv.pdf">
-    <img alt="cv" src="assets/cv/cv.jpg" width="248" height="351"/>
-  </a>
 </details>
 
 ---
