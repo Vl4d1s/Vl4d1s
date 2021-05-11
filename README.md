@@ -36,6 +36,7 @@ I created this site for several main reasons:<br>
 3. Support and promote summaries sharing among all software engineering students at SCE.
 
 **Stack: React (using [Sementic UI](https://react.semantic-ui.com/))**<br>
+**Url: https://www.lmd.co.il/**
 **Repo: https://github.com/Vl4d1s/lmd**
 
 ---
