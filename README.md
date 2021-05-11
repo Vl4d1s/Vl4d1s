@@ -8,12 +8,35 @@ I am a driven professional with an international background and a previous achie
 
 ---
 
-
 ### 🔬 About my final froject:
 
+<p align="center">
 <img src="assets/finalproject/fracSegment.png" alt="maskfruc" width="603" height="415"/>
+</p>
 
 In our research project [My Partner](https://github.com/Mohamab29) (Mohamed Nedal Abomokh) and I are researching the field of Computer Vision and building a deep learning model (CNN) to mark [Fractographic images](https://en.wikipedia.org/wiki/Fractography#:~:text=Fractography%20is%20the%20study%20of,forensic%20engineering%20or%20failure%20analysis.), focusing on dimples in order to achieve maximum accuracy and also save valuable time from materials engineers. The name of the model on which the project is based is [U-Net](https://arxiv.org/abs/1505.04597), originally developed for for biomedical image segmentation. We changed the model to fit our problem - segmantation of fractographic images and we have created a dynamic multi-process application in Python, using PyQt library that receives factographic images as input and returns as output the prediction of the images and a csv file with quantitative analysis of the areas of the dimples. In addition, it is possible to change parameters manually and filter for example only dimples of the desired size.
+
+**Stack: Python (OpenCv, TensorFlow, Keras, PyQt)**<br>
+**Repo: (soon)**
+
+---
+
+### 🔬 The newest project:
+
+<p align="center">
+
+<img src="assets/projects/lmd.png" alt="maskfruc" width="640" height="315"/>
+</p>
+
+A website that consolidates all the Google drives of the Department of Software Engineering at SCE College.<br>
+I created this site for several main reasons:<br>
+
+1. Bind under one address all the drives of software engineering of SCE.<br>
+2. Allow easy, fast and efficient access from anywhere and from any device for summaries, lectures, exercises, test notebooks and more.<br>
+3. Support and promote summaries sharing among all software engineering students at SCE.
+
+**Stack: React (using [Sementic UI](https://react.semantic-ui.com/))**<br>
+**Repo: https://github.com/Vl4d1s/lmd**
 
 ---
 
@@ -46,22 +69,7 @@ In our research project [My Partner](https://github.com/Mohamab29) (Mohamed Neda
 
 ---
 
-### 🤸‍♂️ Challenges that I’m currently challenging myself:
-
-<details>
-  <summary> Since the world is in the quarantine stage, I decided to take this time focusing on feeding more knowledge to myself. I set a couple of self-challenges in order to push myself more further. </summary>
-  <ul>
-    <li>Get back in shape.</li>
-    <li>Avoid over using social media.</li>
-    <li>Explore the field of computer vision & Deep learning.</li>
-    <li>Improve my full-stack capabilities.</li>
-    <li>Finish a bachelor's degree and start a master's degree.</li>
-  </ul>
-</details>
-
----
-
-### 📬 Send me a message!
+### 📬 Feel free to contact me:
 
 <p>
 I am actively seeking for an exciting opportunity where I can grow professionally, so feel free to connect through this profile, via email or
