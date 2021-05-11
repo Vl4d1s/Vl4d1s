@@ -6,6 +6,10 @@
 
 I am a driven professional with an international background and a previous achievement record in sales 📈, currently pursuing my Bachelor’s in Software Engineering 👨‍🎓. My studies and project experience allowed me to hone a wealth of skills across the SDLC, as I was immersed in the planning, analysis, design, testing, implementation and maintenance of various systems, tools and products, both as part of my degree and independently. In this sense, I developed a passion for writing clean high-quality code. Currently, I am immersed in Full-Stack Web Developing 💻, ML/AI and I am working on my final project 🔬.
 
+ 📃 <a href="assets/cv/cv.pdf">
+     Download my CV
+  </a>
+
 ---
 
 ### 🔬 About my final froject:
@@ -41,27 +45,16 @@ I created this site for several main reasons:<br>
 
 ---
 
-### 📃 Download my CV:
-
-  <a href="assets/cv/cv.pdf">
-    <img alt="cv" src="assets/cv/cv.jpg" width="248" height="351"/>
-  </a>
-
----
-
 ### 💯 Certificates:
 
-<details>
-  <summary>
-    Here are some of my Certificates that i got:
-  </summary>
-    <img src="assets/certificates/git.jpg" alt="git" width="400" height="297.5"/>&nbsp;
-    <img src="assets/certificates/weirdjs.jpg" alt="weirdjs" width="400" height="297.5"/>&nbsp;
-    <img src="assets/certificates/linux.jpg" alt="linux" width="400" height="297.5"/>&nbsp;
-    <img src="assets/certificates/advancejs.jpg" alt="advancejs" width="400" height="297.5"/>&nbsp;
-    <img src="assets/certificates/react.jpg" alt="react" width="400" height="297.5"/>&nbsp;
-    <img src="assets/certificates/mathlab.png" alt="mathlab" width="400" height="297.5"/>&nbsp;
-</details>
+<p align="center">
+    <img src="assets/certificates/git.jpg" alt="git" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/weirdjs.jpg" alt="weirdjs" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/linux.jpg" alt="linux" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/advancejs.jpg" alt="advancejs" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/react.jpg" alt="react" width="288" height="214"/>&nbsp;
+    <img src="assets/certificates/mathlab.png" alt="mathlab" width="288" height="214"/>&nbsp;
+  </p>
 
 ---
 
