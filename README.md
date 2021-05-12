@@ -21,11 +21,11 @@ I am a driven professional with an international background and a previous achie
 In our research project [My Partner](https://github.com/Mohamab29) (Mohamed Nedal Abomokh) and I are researching the field of Computer Vision and building a deep learning model (CNN) to mark [Fractographic images](https://en.wikipedia.org/wiki/Fractography#:~:text=Fractography%20is%20the%20study%20of,forensic%20engineering%20or%20failure%20analysis.), focusing on dimples in order to achieve maximum accuracy and also save valuable time from materials engineers. The name of the model on which the project is based is [U-Net](https://arxiv.org/abs/1505.04597), originally developed for for biomedical image segmentation. We changed the model to fit our problem - segmantation of fractographic images and we have created a dynamic multi-process application in Python, using PyQt library that receives factographic images as input and returns as output the prediction of the images and a csv file with quantitative analysis of the areas of the dimples. In addition, it is possible to change parameters manually and filter for example only dimples of the desired size.
 
 **Stack: Python (OpenCv, TensorFlow, Keras, PyQt)**<br>
-**Repo: (soon)**
+**Repo: https://github.com/Mohamab29/FracSegment**
 
 ---
 
-### 🔬 The newest project:
+### 📁 The newest project:
 
 <p align="center">
 
