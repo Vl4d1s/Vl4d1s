@@ -37,7 +37,7 @@ I created this site for several main reasons:<br>
 
 1. Bind under one address all the drives of software engineering of SCE.<br>
 2. Allow easy, fast and efficient access from anywhere and from any device for summaries, lectures, exercises, test notebooks and more.<br>
-3. Support and promote summaries sharing among all software engineering students at SCE.
+3. Support and promote summaries sharing among all engineering students at SCE.
 
 > **Stack: React (using [Sementic UI](https://react.semantic-ui.com/))**<br>
 > **Url: https://www.lmd.co.il/**<br>
