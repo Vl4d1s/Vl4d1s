@@ -27,7 +27,7 @@ In our research project [My Partner](https://github.com/Mohamab29) (Mohamed Neda
 ### 📁 The newest project:
 
 <p align="center">
-<img src="assets/projects/lmd.png" alt="maskfruc" width="640" height="315"/>
+<img src="assets/projects/lmd.gif" alt="maskfruc" width="640" height="315"/>
 </p>
 
 A website that consolidates all the Google drives of the Department of Software Engineering at SCE College.<br>
