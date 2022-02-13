@@ -14,10 +14,6 @@ I have an excellent understanding of advanced JavaScript concepts such as asynch
 
 Currently, I am immersed in Front End Web Developing using React/Redux (Hooks & Classes), Redux-Saga, TypeScript. In addition, I also have projects in the following technologies: Node.js, Express, React Native, MongoDB.
 
-📃 <a href="assets/cv/cv.pdf">
-Download my CV
-</a>
-
 ---
 
 ### 🔬 About my final froject:
