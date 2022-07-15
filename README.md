@@ -34,23 +34,6 @@ In our research project [My Partner](https://github.com/Mohamab29) (Mohamed Neda
 
 ---
 
-### 📁 The newest project:
-
-<p align="center">
-<img src="assets/projects/lmd.gif" alt="maskfruc" width="640" height="315"/>
-</p>
-
-A website that consolidates all the Google drives of the Department of Software Engineering at SCE College.<br>
-I created this site for several main reasons:<br>
-
-1. Bind under one address all the drives of software engineering of SCE.<br>
-2. Allow easy, fast and efficient access from anywhere and from any device for summaries, lectures, exercises, test notebooks and more.<br>
-3. Support and promote summaries sharing among all engineering students at SCE.
-
-> **Stack: React (using [Sementic UI](https://react.semantic-ui.com/))**<br> > **Url: https://www.lmd.co.il/**<br> > **Repo: https://github.com/Vl4d1s/lmd**
-
----
-
 ### 💯 Certificates:
 
 <p align="center">
