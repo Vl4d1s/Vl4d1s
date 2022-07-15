@@ -4,6 +4,17 @@
   
 </p>
 
+Hey guys 👋 , My name is Vladis.<br/>
+
+My #1 talent is to understand the behind-the-scenes technologies I use daily.
+My #2 talent is to use it to solve problems.
+#3 is surrounding myself with the people to help make #1 and #2 happen.
+
+Ever since I can remember, I've always been interested in what's happening behind the scenes of technologies I learned as part of my SE degree or in industry. As a result, I spend hours in my free time on documentation, behind-the-scenes courses, and articles to understand these technologies in depth.
+
+The best way to solve problems begins with the basic familiarity of advanced concepts in daily technologies. So once I come to a good understanding, I like to write, share and explain these technologies simply through diagrams and examples of code.
+
+
 My work experience and studies allowed me to hone a wealth of skills across the SDLC, as I was immersed in the planning, analysis, design, testing, implementation, and maintenance of various systems, tools, and products, both as part of my work and independently. In this sense, I developed a passion for writing clean, high-quality code. 
 
 I have an excellent understanding of advanced JavaScript concepts such as asynchronous programming, closures, ES6 features, In-depth prototype concepts, this binding, and OOP.
