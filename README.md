@@ -4,7 +4,7 @@
   
 </p>
 
-Hey guys 👋 , My name is Vladis.<br/>
+Hey 👋<br/>
 
 My #1 talent is to understand the behind-the-scenes technologies I use daily.<br/>
 My #2 talent is to use it to solve problems.<br/>
