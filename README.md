@@ -22,9 +22,9 @@ I have an excellent understanding of advanced JavaScript concepts such as asynch
 Currently, I am immersed in Full Stack Web Developing at Wix DevTools.
 We build products which make the frontend engineers at Wix more productive using the cutting edge technologies like: ES6, Node.js, React.js, AWS (Lambdas, S3, DynamoDB etc...), SQL and much more.
 
-Please feel free to connect through this profile, via email or telephone: <br/>
+Please feel free to connect through my LinkedIn profile or via email: <br/>
+
 📧 vladismarkin@gmail.com <br/>
-☎ 0526256397
 
 My LinkedIn page:<br/>
 💻 https://www.linkedin.com/in/vladismarkin/
