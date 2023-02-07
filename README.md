@@ -4,9 +4,13 @@
   
 </p>
 
-As a full-stack software engineer at Wix DevTools, I am part of a team responsible for building and maintaining high-quality infrastructure tools for our engineers. Our goal is to provide a robust and efficient platform for our developers to create and deliver high-quality products. Our vision is to become an industry leader in designing professional development experiences for web applications using Wix technologies.
+As a Software Engineer at Wix DevTools, I am part of a team responsible for building and maintaining high-quality infrastructure tools for our engineers. 
 
-I am excited to work with a talented team and contribute to the success of Wix's mission to make it easy for anyone to create a website. I am always eager to explore new technologies and stay up-to-date with the latest developments in the field.
+Our goal is to provide a robust and efficient platform for our developers to create and deliver high-quality products.
+
+Our vision is to become an industry leader in designing professional development experiences for web applications using Wix technologies.
+
+I am excited to work with a talented team and contribute to the success of Wix's mission to make it easy for anyone to create a website, and I am always eager to explore new technologies and stay up-to-date with the latest developments in the field.
 
 Please feel free to connect through my LinkedIn profile or via email: <br/>
 
