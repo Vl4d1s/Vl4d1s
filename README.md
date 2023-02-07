@@ -4,23 +4,9 @@
   
 </p>
 
-Hey 👋<br/>
+As a full-stack software engineer at Wix DevTools, I am part of a team responsible for building and maintaining high-quality infrastructure tools for our engineers. Our goal is to provide a robust and efficient platform for our developers to create and deliver high-quality products. Our vision is to become an industry leader in designing professional development experiences for web applications using Wix technologies.
 
-My #1 talent is to understand the behind-the-scenes technologies I use daily.<br/>
-My #2 talent is to use it to solve problems.<br/>
-#3 is surrounding myself with the people to help make #1 and #2 happen.
-
-Ever since I can remember, I've always been interested in what's happening behind the scenes of technologies I learned as part of my SE degree or in industry. As a result, I spend hours in my free time on documentation, behind-the-scenes courses, and articles to understand these technologies in depth.
-
-The best way to solve problems begins with the basic familiarity of advanced concepts in daily technologies. So once I come to a good understanding, I like to write, share and explain these technologies simply through diagrams and examples of code.
-
-
-My work experience and studies allowed me to hone a wealth of skills across the SDLC, as I was immersed in the planning, analysis, design, testing, implementation, and maintenance of various systems, tools, and products, both as part of my work and independently. In this sense, I developed a passion for writing clean, high-quality code. 
-
-I have an excellent understanding of advanced JavaScript concepts such as asynchronous programming, closures, ES6 features, In-depth prototype concepts, this binding, and OOP.
-
-Currently, I am immersed in Full Stack Web Developing at Wix DevTools.
-We build products which make the frontend engineers at Wix more productive using the cutting edge technologies like: ES6, Node.js, React.js, AWS (Lambdas, S3, DynamoDB etc...), SQL and much more.
+I am excited to work with a talented team and contribute to the success of Wix's mission to make it easy for anyone to create a website. I am always eager to explore new technologies and stay up-to-date with the latest developments in the field.
 
 Please feel free to connect through my LinkedIn profile or via email: <br/>
 
