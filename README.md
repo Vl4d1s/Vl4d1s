@@ -6,9 +6,11 @@
 
 Welcome to My GitHub page! 👋
 
-With over 3 years of experience as a Full-Stack Engineer specializing in Frontend Development in global hi-tech companies, I blend a diverse background in technology and sports. Transitioning from an Outstanding Volleyball Athlete 🏐 to excelling in full-stack development, I bring a unique perspective to the high-tech world.
+I bring over 3 years of expertise as a Full Stack Engineer specializing in Front End Development within global hi-tech companies. Transitioning from a professional volleyball athlete to software engineering, I offer a unique perspective to the high-tech world.
 
-As a Software Engineer with a BSc degree and a focus on mentoring and knowledge sharing, I'm here to assist you in advancing your tech journey, especially if you have questions about JavaScript or React. Feel free to reach out anytime, as I am always eager to explore new technologies and stay up-to-date with the latest developments in the field.
+Moreover, I have hands-on experience in building and maintaining front-end infrastructure on the cloud (AWS) and possess a solid understanding of CI/CD processes.
+
+As a Software Engineer with a BSc degree focused on mentoring and knowledge sharing, I'm here to assist you in advancing your tech journey, particularly in JavaScript, TypeScript or React. I am always eager to explore new technologies, stay up-to-date with the latest developments, and delve into the behind-the-scenes of tech.
 
 ---
 
@@ -35,7 +37,6 @@ through the social networks:
 | Cloud                  | ![AWS](https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Global State Managment | ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=for-the-badge)                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Database               | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white&style=for-the-badge) ![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=) ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)                                                           |
-| UI libraries           | ![React Query](https://img.shields.io/static/v1?style=for-the-badge&message=React+Query&color=FF4154&logo=React+Query&logoColor=FFFFFF&label=) ![React Router](https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label=) ![React Table](https://img.shields.io/static/v1?style=for-the-badge&message=React+Table&color=FF4154&logo=React+Table&logoColor=FFFFFF&label=)                                                                                                                  |
 
 ---
 
