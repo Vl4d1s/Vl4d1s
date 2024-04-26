@@ -8,23 +8,19 @@ Welcome to My GitHub page! 👋
 
 I bring over 3 years of expertise as a Full Stack Engineer specializing in Front End Development within global hi-tech companies. Transitioning from a professional volleyball athlete to software engineering, I offer a unique perspective to the high-tech world.
 
-Moreover, I have hands-on experience in building and maintaining front-end infrastructure on the cloud (AWS) and possess a solid understanding of CI/CD processes.
+Moreover, I have hands-on experience in building and maintaining front-end infrastructure on the cloud (AWS) and possess a solid understanding of CI/CD processes and tools like Jenkins and TeamCity.
 
-As a Software Engineer with a BSc degree focused on mentoring and knowledge sharing, I'm here to assist you in advancing your tech journey, particularly in JavaScript, TypeScript or React. I am always eager to explore new technologies, stay up-to-date with the latest developments, and delve into the behind-the-scenes of tech.
+As a Software Engineer focused on mentoring and knowledge sharing, I'm here to assist you in advancing your tech journey, particularly in JavaScript, TypeScript or React.
+
+I am always eager to explore new technologies, stay up-to-date with the latest developments, and delve into the behind-the-scenes of tech.
 
 ---
 
 ### 📬 Feel free to contact me:
 
-<p>
-Feel free to connect through this profile, via email or
-through the social networks:
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/vladismarkin/"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="vladismarkin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Mail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge" /></a>
-</p>
+📧 Email: vladismarkin@gmail.com <br/>
+💻 Linkedin: https://www.linkedin.com/vladismarkin <br/>
+🌐 My Personal website: https://www.vladismarkin.com
 
 ---
 
