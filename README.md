@@ -19,7 +19,7 @@ I am always eager to explore new technologies, stay up-to-date with the latest d
 ### 📬 Feel free to contact me:
 
 📧 Email: vladismarkin@gmail.com <br/>
-💻 Linkedin: https://www.linkedin.com/vladismarkin <br/>
+💻 Linkedin: https://www.linkedin.com/in/vladismarkin <br/>
 🌐 My Personal website: https://www.vladismarkin.com
 
 ---
