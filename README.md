@@ -1,10 +1,11 @@
-<p align="center">
-  
-  ### About me:
+<h1 align="center">Hi 👋 , I'm Vladis Markin</h1>
+<h3 align="center">Full stack (FE oriented) Engineer</h3>
 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vl4d1s&label=Profile%20views&color=0e75b6&style=flat" alt="vl4d1s" /> </p>
 
-Welcome to My GitHub page! 👋
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=vl4d1s&margin-w=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="vl4d1s" /></a> </p>
+
+Welcome to My GitHub page!
 
 I bring over 3 years of expertise as a Full Stack Engineer specializing in Front End Development within global hi-tech companies. Transitioning from a professional volleyball athlete to software engineering, I offer a unique perspective to the high-tech world.
 
