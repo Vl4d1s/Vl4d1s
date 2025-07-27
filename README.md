@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 , I'm Vladis Markin</h1>
-<h3 align="center">AI Focused Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vl4d1s&label=Profile%20views&color=0e75b6&style=flat" alt="vl4d1s" /> </p>
 
