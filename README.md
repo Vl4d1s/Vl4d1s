@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 , I'm Vladis Markin</h1>
-<h3 align="center">Full stack (FE oriented) Engineer</h3>
+<h3 align="center">AI Focused Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vl4d1s&label=Profile%20views&color=0e75b6&style=flat" alt="vl4d1s" /> </p>
 
@@ -7,13 +7,15 @@
 
 Welcome to My GitHub page!
 
-I bring over 3 years of expertise as a Full Stack Engineer specializing in Front End Development within global hi-tech companies. Transitioning from a professional volleyball athlete to software engineering, I offer a unique perspective to the high-tech world.
+As a former professional volleyball player, I bring discipline, teamwork, and a commitment to excellence in my role as a Full Stack Engineer. With over 5 years of experience in Front End Development and front-end infrastructure, I am passionate about creating innovative solutions.
 
-Moreover, I have hands-on experience in building and maintaining front-end infrastructure on the cloud (AWS) and possess a solid understanding of CI/CD processes and tools like Jenkins and TeamCity.
+Currently, I am a member of the AI Taskforce, where I lead the development of POCs for AI tools and methodologies. I also conduct workshops to share knowledge with our engineering group and build robust applications using JavaScript, TypeScript, React, and Node.js. Additionally, I manage a cross-company AI-based end-to-end testing framework that enhances development efficiency.
 
-As a Software Engineer focused on mentoring and knowledge sharing, I'm here to assist you in advancing your tech journey, particularly in JavaScript, TypeScript or React.
+I integrate various AI tools into my work daily, including n8n, Agents, LLM workflows, Warp, Dia, Claude, and Cursor.
 
-I am always eager to explore new technologies, stay up-to-date with the latest developments, and delve into the behind-the-scenes of tech.
+Outside of work, I enjoy staying active, reading, spending time with my dog, and building detailed Lego sets.
+
+Feel free to get in touch:
 
 ---
 
@@ -22,18 +24,6 @@ I am always eager to explore new technologies, stay up-to-date with the latest d
 📧 Email: vladismarkin@gmail.com <br/>
 💻 Linkedin: https://www.linkedin.com/in/vladismarkin <br/>
 🌐 My Personal website: https://www.vladismarkin.com
-
----
-
-### 🖥️ Main Stack:
-
-| Category               | Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Frontend               | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge) ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge) ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![ReactNative](https://img.shields.io/badge/ReactNative-262261?logo=ReactNative&logoColor=white&style=for-the-badge) |
-| Backend                | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge) ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)                                                                                                                                                                                                                                         |
-| Cloud                  | ![AWS](https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Global State Managment | ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=Redux&logoColor=white&style=for-the-badge)                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Database               | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=Oracle&logoColor=white&style=for-the-badge) ![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=) ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)                                                           |
 
 ---
 
