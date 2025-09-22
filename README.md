@@ -6,13 +6,13 @@
 
 Welcome to My GitHub page!
 
-As a former professional volleyball player, I bring discipline, teamwork, and a commitment to excellence in my role as a Full Stack Engineer. With over 5 years of experience in Front End Development and front-end infrastructure, I am passionate about creating innovative solutions.
+I’m a Full Stack Engineer, frontend-oriented, with 5+ years of experience building scalable applications and engineering infrastructure. My focus is on creating reliable, high-performance systems while driving innovation through applied AI.
 
-Currently, I am a member of the AI Taskforce, where I lead the development of POCs for AI tools and methodologies. I also conduct workshops to share knowledge with our engineering group and build robust applications using JavaScript, TypeScript, React, and Node.js. Additionally, I manage a cross-company AI-based end-to-end testing framework that enhances development efficiency.
+At Earnix, I lead AI initiatives within the engineering taskforce, developing POCs, integrating AI tools into workflows, and building a cross-company testing framework that improved development speed and quality across teams. Previously at Wix, I contributed to the Frontend Infrastructure group.
 
-I integrate various AI tools into my work daily, including n8n, Agents, LLM workflows, Warp, Dia, Claude, and Cursor.
+My expertise spans modern web development (JavaScript, TypeScript, React, Node.js) and AI-driven systems, including multi-agent architectures, RAG pipelines, and evaluation frameworks. I also run workshops to mentor engineers adopting AI-driven practices.
 
-Outside of work, I enjoy staying active, reading, spending time with my dog, and building detailed Lego sets.
+As a former professional athlete, I bring discipline, resilience, and teamwork into everything I do. Whether it’s scaling web applications, pioneering new AI methodologies, or helping teams ship smarter and faster, I’m motivated by creating lasting impact. My mission is simple: engineer solutions that move both technology and people forward.
 
 Feel free to get in touch:
 
