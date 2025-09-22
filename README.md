@@ -8,7 +8,7 @@ Welcome to My GitHub page!
 
 I’m a Full Stack Engineer, frontend-oriented, with 5+ years of experience building scalable applications and engineering infrastructure. My focus is on creating reliable, high-performance systems while driving innovation through applied AI.
 
-At Earnix, I lead AI initiatives within the engineering taskforce, developing POCs, integrating AI tools into workflows, and building a cross-company testing framework that improved development speed and quality across teams. Previously at Wix, I contributed to the Frontend Infrastructure group.
+At Earnix, I am part of the company-level task force, developing POCs, integrating AI tools into workflows, and building a cross-company testing framework that improved development speed and quality across teams. Previously at Wix, I contributed to the Frontend Infrastructure group.
 
 My expertise spans modern web development (JavaScript, TypeScript, React, Node.js) and AI-driven systems, including multi-agent architectures, RAG pipelines, and evaluation frameworks. I also run workshops to mentor engineers adopting AI-driven practices.
 
